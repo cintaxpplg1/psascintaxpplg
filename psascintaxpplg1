@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="STYLE.CSS">
+</head>
+<body>
+
+    <header>
+        <h1>BELAJAR HTML UNTUK PEMULA</h1>
+        <h1>belajar HTML itu Mudah</h1>
+    </header>
+
+    <nav>
+        <a href="#beranda">beranda</a>
+        <a href="#waktu">belajar</a>
+        <a href="#kegiatan">kontak</a>
+    </nav>
+
+    <main>
+        <article class="article">
+            <p>1.Dalam HTML ada struktur dasar yang harus di gunakan agar halaman web yang dibuat bisa berfungsi. Strukture ini akan menjadi kerangka halaman sehingga web browser bisa menampilkannya dengan benar.</p>
+            <p>2.Untuk membuat HTML tidak perlu menguasai Algoritma pemrograman atau logika seperti variabel dan syntax yang rumit.</p>
+        </article>
+    </main>
+
+    <footer>@cinta.belajar</footer>
+
+</body>
+</html>
